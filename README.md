@@ -17,6 +17,8 @@ A script that loops through all the stocks for each quarter was created to outpu
 
 The results are depicted in the following picture. 
 
+![Summary_Table]()
+
 Then, a functionality was added to the script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
 
 The results are depicted in the following picture. 
