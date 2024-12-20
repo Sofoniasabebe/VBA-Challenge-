@@ -25,7 +25,7 @@ The results are depicted in the following picture.
 
 ![Greatest_Increases](Greatest_Increases_Screenshot.png)
 
-A conditional formatting that will highlight positive change in green and negative change in red was applied. 
+A conditional formatting that highlights positive change in green and negative change in red was applied. 
 
 Finally, an adjustments was added to the VBA script to enable it to run on every worksheet (that is, every quarter) at once. 
 
